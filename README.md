@@ -1,6 +1,6 @@
 <h1 align="center">👋 𝙷𝚎𝚕𝚕𝚘! 𝙸'𝚖 KirillMonster</h1>
 
-<h3 align="center">Python, C#, C++ Developer</h3>
+<h3 align="center">Python, C#, C++(Arduino) Developer</h3>
 <p align="center">
  <!--<a href="https://www.youtube.com/channel/UCNrRkCTcOGKAvg45I-hX-3g"><img src="https://img.shields.io/badge/-YouTube-red?style=flat&logo=YouTube&logoColor=white"/></a><!-->
  <a href="https://tlgg.ru/Kirill_Monster"><img src="https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white" /></a>
