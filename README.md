@@ -9,14 +9,6 @@
 
 ![Python](https://img.shields.io/badge/-PYTHON-090909?style=for-the-badge&logo=python)
 
-https://img.shields.io/badge/-KERAS-090909?style=for-the-badge&logo=keras&logoColor=D00000
-
-https://img.shields.io/badge/-Arduino-090909?style=for-the-badge&logo=arduino&logoColor=6296CC
-https://img.shields.io/badge/-ESP32/8266-090909?style=for-the-badge&logo=espressif
-https://img.shields.io/badge/-AIOGRAM-090909?style=for-the-badge&logo=telegram
-https://img.shields.io/badge/-NEXTCORD-090909?style=for-the-badge&logo=discord
-https://img.shields.io/badge/-YOUTUBE%20DLP-090909?style=for-the-badge&logo=youtube&logoColor=ff0000
-https://img.shields.io/badge/-TEXT%20CLASSIFICATION-090909?style=for-the-badge&logo=keras&logoColor=ff0000
 
 <h3 align="center">Python, C#, C++(Arduino) Developer</h3>
 <p align="center">
