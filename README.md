@@ -1,13 +1,14 @@
 ### Languages and Tools:
-![Flutter](https://img.shields.io/badge/-Flutter-090909?style=for-the-badge&logo=flutter&logoColor=47C5FB)
-![Dart](https://img.shields.io/badge/-Dart-090909?style=for-the-badge&logo=dart&logoColor=097CDB)
-![Firebase](https://img.shields.io/badge/-Firebase-090909?style=for-the-badge&logo=firebase&logoColor=F8C52C)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-090909?style=for-the-badge&logo=tensorflow&logoColor=F88C00)
-![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
+![Python](https://img.shields.io/badge/-PYTHON-090909?style=for-the-badge&logo=python)
+![KERAS & Text Classification](https://img.shields.io/badge/-Flutter-090909?style=for-the-badge&logo=flutter&logoColor=47C5FB](https://img.shields.io/badge/-TEXT%20CLASSIFICATION-090909?style=for-the-badge&logo=keras&logoColor=ff0000)
+![Arduino](https://img.shields.io/badge/-Arduino-090909?style=for-the-badge&logo=arduino&logoColor=6296CC)
+![Esp](https://img.shields.io/badge/-ESP32/8266-090909?style=for-the-badge&logo=espressif)
+![Telegram](https://img.shields.io/badge/-AIOGRAM-090909?style=for-the-badge&logo=telegram)
+![Discord](https://img.shields.io/badge/-NEXTCORD-090909?style=for-the-badge&logo=discord)
 ![.Net](https://img.shields.io/badge/-Framework-090909?style=for-the-badge&logo=.net&logoColor=E5D3FF)
 ![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
 
-![Python](https://img.shields.io/badge/-PYTHON-090909?style=for-the-badge&logo=python)
+
 
 
 <h3 align="center">Python, C#, C++(Arduino) Developer</h3>
