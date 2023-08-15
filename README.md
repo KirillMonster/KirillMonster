@@ -1,10 +1,10 @@
 ### Languages and Technologies:
-![Python](https://img.shields.io/badge/-PYTHON-090909?style=for-the-badge&logo=python)
-![KERAS & Text Classification](https://img.shields.io/badge/-TEXT%20CLASSIFICATION-090909?style=for-the-badge&logo=keras&logoColor=ff0000)
-![Arduino](https://img.shields.io/badge/-Arduino-090909?style=for-the-badge&logo=arduino&logoColor=6296CC)
-![Esp](https://img.shields.io/badge/-ESP32/8266-090909?style=for-the-badge&logo=espressif)
-![Telegram](https://img.shields.io/badge/-AIOGRAM-090909?style=for-the-badge&logo=telegram)
-![Discord](https://img.shields.io/badge/-NEXTCORD-090909?style=for-the-badge&logo=discord)
+[![Python](https://img.shields.io/badge/-PYTHON-090909?style=for-the-badge&logo=python)](https://www.python.org/)
+[![KERAS & Text Classification](https://img.shields.io/badge/-TEXT%20CLASSIFICATION-090909?style=for-the-badge&logo=keras&logoColor=ff0000)](https://keras.io/)
+[![Arduino](https://img.shields.io/badge/-Arduino-090909?style=for-the-badge&logo=arduino&logoColor=6296CC)](https://www.arduino.cc/)
+[![Esp](https://img.shields.io/badge/-ESP32/8266-090909?style=for-the-badge&logo=espressif)](https://www.espressif.com/)
+[![Aiogram](https://img.shields.io/badge/-AIOGRAM-090909?style=for-the-badge&logo=telegram)](https://github.com/aiogram/aiogram)
+[![Nextcord](https://img.shields.io/badge/-NEXTCORD-090909?style=for-the-badge&logo=discord)](https://github.com/nextcord/nextcord)
 [![Youtube DLP](https://img.shields.io/badge/-YOUTUBE%20DLP-090909?style=for-the-badge&logo=youtube&logoColor=ff0000)](https://github.com/yt-dlp/yt-dlp)
 
 
