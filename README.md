@@ -10,6 +10,7 @@
 [![Pycharm](https://img.shields.io/badge/-Pycharm-090909?style=for-the-badge&logo=pycharm&logoColor=7CFC00)](https://www.jetbrains.com/ru-ru/pycharm/)
 [![Figma](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=figma)](https://www.figma.com)
 [![NVim](https://img.shields.io/badge/-NVim-090909?style=for-the-badge&logo=vim&logoColor=e5fe20)](https://www.jetbrains.com/ru-ru/pycharm/)
+[![Firefox](https://img.shields.io/badge/-Firefox-090909?style=for-the-badge&logo=firefox)](https://www.mozilla.org/ru/)
 
 <h3 align="center">Python, C#, C++(Arduino) Developer</h3>
 <p align="center">
