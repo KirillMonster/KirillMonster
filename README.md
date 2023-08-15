@@ -6,7 +6,10 @@
 [![Aiogram](https://img.shields.io/badge/-AIOGRAM-090909?style=for-the-badge&logo=telegram)](https://github.com/aiogram/aiogram)
 [![Nextcord](https://img.shields.io/badge/-NEXTCORD-090909?style=for-the-badge&logo=discord)](https://github.com/nextcord/nextcord)
 [![Youtube DLP](https://img.shields.io/badge/-YOUTUBE%20DLP-090909?style=for-the-badge&logo=youtube&logoColor=ff0000)](https://github.com/yt-dlp/yt-dlp)
-
+### Tools
+[![Pycharm](https://img.shields.io/badge/-Pycharm-090909?style=for-the-badge&logo=pycharm&logoColor=7CFC00)](https://www.jetbrains.com/ru-ru/pycharm/)
+[![Figma](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=figma)](https://www.figma.com)
+[![NVim](https://img.shields.io/badge/-NVim-090909?style=for-the-badge&logo=vim&logoColor=e5fe20)](https://www.jetbrains.com/ru-ru/pycharm/)
 
 <h3 align="center">Python, C#, C++(Arduino) Developer</h3>
 <p align="center">
