@@ -6,11 +6,19 @@
 [![Aiogram](https://img.shields.io/badge/-AIOGRAM-090909?style=for-the-badge&logo=telegram)](https://github.com/aiogram/aiogram)
 [![Nextcord](https://img.shields.io/badge/-NEXTCORD-090909?style=for-the-badge&logo=discord)](https://github.com/nextcord/nextcord)
 [![Youtube DLP](https://img.shields.io/badge/-YOUTUBE%20DLP-090909?style=for-the-badge&logo=youtube&logoColor=ff0000)](https://github.com/yt-dlp/yt-dlp)
+
 ### Tools
 [![Pycharm](https://img.shields.io/badge/-Pycharm-090909?style=for-the-badge&logo=pycharm&logoColor=7CFC00)](https://www.jetbrains.com/ru-ru/pycharm/)
 [![Figma](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=figma)](https://www.figma.com)
 [![NVim](https://img.shields.io/badge/-NVim-090909?style=for-the-badge&logo=vim&logoColor=e5fe20)](https://www.jetbrains.com/ru-ru/pycharm/)
 [![Firefox](https://img.shields.io/badge/-Firefox-090909?style=for-the-badge&logo=firefox)](https://www.mozilla.org/ru/)
+
+
+### Socials:
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/kirill_monster)
+[![Discord](https://img.shields.io/badge/-NEXTCORD-090909?style=for-the-badge&logo=discord)](discordapp.com/users/643017727728025602)
+[![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/kirill_monster)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zipmishahl2)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="center">Python, C#, C++(Arduino) Developer</h3>
 <p align="center">
