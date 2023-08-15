@@ -16,7 +16,7 @@
 
 ### Socials:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/kirill_monster)
-[![Discord](https://img.shields.io/badge/-Discord-090909?style=for-the-badge&logo=discord)](discordapp.com/users/643017727728025602)
+[![Discord](https://img.shields.io/badge/-Discord-090909?style=for-the-badge&logo=discord)](https://discordapp.com/users/643017727728025602)
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/kirill_monster)
 
 <p align="center">
