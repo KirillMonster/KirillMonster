@@ -15,6 +15,8 @@
 [![NVim](https://img.shields.io/badge/-NVim-090909?style=for-the-badge&logo=vim&logoColor=e5fe20)](https://neovim.io/)
 [![Firefox](https://img.shields.io/badge/-Firefox-090909?style=for-the-badge&logo=firefox)](https://www.mozilla.org/ru/)
 
+### My Big Projects
+[![BotX](https://img.shields.io/badge/-BotX-090909?style=for-the-badge&logo=chatbot&logoColor=2A54EA)](https://discord.gg/ios1ph)
 
 ### Socials:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/kirill_monster)
