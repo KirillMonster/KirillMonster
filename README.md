@@ -1,7 +1,7 @@
-### Languages and Technologies:
+s### Languages and Technologies:
 [![Python](https://img.shields.io/badge/-PYTHON-090909?style=for-the-badge&logo=python)](https://www.python.org/)
 [![KERAS & Text Classification](https://img.shields.io/badge/-TEXT%20CLASSIFICATION-090909?style=for-the-badge&logo=keras&logoColor=ff0000)](https://keras.io/)
-[![Arduino & ESP32/8266](https://img.shields.io/badge/-Arduino-090909?style=for-the-badge&logo=arduino&logoColor=6296CC)](https://www.arduino.cc/)
+[![Arduino ESP32/8266](https://img.shields.io/badge/-Arduino-090909?style=for-the-badge&logo=arduino&logoColor=6296CC)](https://www.arduino.cc/)
 [![Aiogram](https://img.shields.io/badge/-AIOGRAM-090909?style=for-the-badge&logo=telegram)](https://github.com/aiogram/aiogram)
 [![Nextcord](https://img.shields.io/badge/-NEXTCORD-090909?style=for-the-badge&logo=discord)](https://github.com/nextcord/nextcord)
 [![Youtube DLP](https://img.shields.io/badge/-YOUTUBE%20DLP-090909?style=for-the-badge&logo=youtube&logoColor=ff0000)](https://github.com/yt-dlp/yt-dlp)
