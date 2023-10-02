@@ -12,7 +12,8 @@
 [![Pycharm](https://img.shields.io/badge/-Pycharm-090909?style=for-the-badge&logo=pycharm&logoColor=7CFC00)](https://www.jetbrains.com/ru-ru/pycharm/)
 [![Figma](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=figma)](https://www.figma.com)
 [![NVim](https://img.shields.io/badge/-NVim-090909?style=for-the-badge&logo=vim&logoColor=e5fe20)](https://neovim.io/)
-[![Firefox](https://img.shields.io/badge/-Firefox-090909?style=for-the-badge&logo=firefox)](https://www.mozilla.org/ru/)
+[![Firefox](https://img.shields.io/badge/-Firefox-090909?style=for-the-badge&logo=firefox)](https://www.mozilla.org/)
+[![VS Code](https://img.shields.io/badge/-VS%20Code-090909?style=for-the-badge&logo=visual%20studio%20code&logoColor=2D92D6)](https://code.visualstudio.com/)
 
 ### My Big Projects
 [![BotX](https://img.shields.io/badge/-BotX-090909?style=for-the-badge&logo=chatbot&logoColor=2A54EA)](https://discord.gg/ios1ph)
