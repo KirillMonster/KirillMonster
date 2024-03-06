@@ -6,6 +6,7 @@
 [![Youtube DLP](https://img.shields.io/badge/-YOUTUBE%20DLP-090909?style=for-the-badge&logo=youtube&logoColor=ff0000)](https://github.com/yt-dlp/yt-dlp)
 [![Sqlite](https://img.shields.io/badge/-SQLITE-090909?style=for-the-badge&logo=sqlite&logoColor=6CBEEA)](https://www.sqlite.org/index.html)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-090909?style=for-the-badge&logo=postgresql&logoColor=316192)](https://www.postgresql.org/)
+[![Redis](https://img.shields.io/badge/-PostgreSQL-090909?style=for-the-badge&logo=redus&logoColor=316192)](https://www.postgresql.org/)
 
 ### Tools
 [![Pycharm](https://img.shields.io/badge/-Pycharm-090909?style=for-the-badge&logo=pycharm&logoColor=7CFC00)](https://www.jetbrains.com/ru-ru/pycharm/)
