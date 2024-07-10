@@ -1,12 +1,10 @@
 ### Languages and Technologies:
 [![Python](https://img.shields.io/badge/-PYTHON-090909?style=for-the-badge&logo=python)](https://www.python.org/)
-[![Arduino & ESP32/8266](https://img.shields.io/badge/-Arduino%20&%20ESP32%2F8266-090909?style=for-the-badge&logo=arduino&logoColor=6296CC)](https://www.arduino.cc/)
-[![Aiogram](https://img.shields.io/badge/-AIOGRAM-090909?style=for-the-badge&logo=telegram)](https://github.com/aiogram/aiogram)
-[![Nextcord](https://img.shields.io/badge/-NEXTCORD-090909?style=for-the-badge&logo=discord)](https://github.com/nextcord/nextcord)
-[![Youtube DLP](https://img.shields.io/badge/-YOUTUBE%20DLP-090909?style=for-the-badge&logo=youtube&logoColor=ff0000)](https://github.com/yt-dlp/yt-dlp)
+[![js](https://img.shields.io/badge/-PYTHON-090909?style=for-the-badge&logo=python)](https://www.python.org/)
+[![Arduino & ESP32/8266](https://img.shields.io/badge/-Arduino%20&%20ESP32%2F8266-090909?style=for-the-badge&logo=arduino&logoColor
 [![Sqlite](https://img.shields.io/badge/-SQLITE-090909?style=for-the-badge&logo=sqlite&logoColor=6CBEEA)](https://www.sqlite.org/index.html)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-090909?style=for-the-badge&logo=postgresql&logoColor=316192)](https://www.postgresql.org/)
-[![Redis](https://img.shields.io/badge/-PostgreSQL-090909?style=for-the-badge&logo=redus&logoColor=316192)](https://www.postgresql.org/)
+[![Redis](https://img.shields.io/badge/-PostgreSQL-090909?style=for-the-badge&logo=redis&logoColor=316192)](https://redis.io/)
 
 ### Tools
 [![Pycharm](https://img.shields.io/badge/-Pycharm-090909?style=for-the-badge&logo=pycharm&logoColor=7CFC00)](https://www.jetbrains.com/ru-ru/pycharm/)
