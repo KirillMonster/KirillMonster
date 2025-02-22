@@ -14,11 +14,12 @@
 
 ### My Big Projects
 [![BotX (BoosterX)](https://img.shields.io/badge/-BotX-090909?style=for-the-badge&logo=chatbot&logoColor=2A54EA)](https://discord.gg/boosterx)
+[![BotX Multibot](https://img.shields.io/badge/-BotX-090909?style=for-the-badge&logo=chatbot&logoColor=2A54EA)](https://botx.site)
 
 ### Socials:
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/kirill_monster)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/kirill_devx)
 [![Discord](https://img.shields.io/badge/-Discord-090909?style=for-the-badge&logo=discord)](https://discordapp.com/users/643017727728025602)
-[![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/kirill_monster)
+[![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/kirill_dev)
 
 <p align="center">
 <img width="600" src="assets/github-snake.svg" alt="snake"/>
