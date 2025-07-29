@@ -13,7 +13,7 @@
 [![VS Code](https://img.shields.io/badge/-VS%20Code-090909?style=for-the-badge&logo=visual%20studio%20code&logoColor=2D92D6)](https://code.visualstudio.com/)
 
 ### My Big Projects
-[![BotX Next-Gen AI-Powered Discord bot](https://img.shields.io/badge/-BotX-090909?style=for-the-badge&logo=chatbot&logoColor=2A54EA)](https://botx.pro)
+[![Next-Gen AI-Powered Discord bot](https://img.shields.io/badge/-BotX-090909?style=for-the-badge&logo=chatbot&logoColor=2A54EA)](https://botx.pro)
 [![BotX (BoosterX)](https://img.shields.io/badge/-BotX%20%28boosterx%29-090909?style=for-the-badge&logo=chatbot&logoColor=2A54EA)](https://discord.gg/boosterx)
 
 ### Socials:
