@@ -1,6 +1,7 @@
 ### Languages and Technologies:
+[![Rust](https://img.shields.io/badge/-RUST-090909?style=for-the-badge&logo=rust)](https://rust-lang.org/)
 [![Python](https://img.shields.io/badge/-PYTHON-090909?style=for-the-badge&logo=python)](https://www.python.org/)
-[![js](https://img.shields.io/badge/-JS-090909?style=for-the-badge&logo=javascript)](https://www.google.com/search?q=js)
+[![Ts/Js](https://img.shields.io/badge/-JS-090909?style=for-the-badge&logo=javascript)](https://www.google.com/search?q=js)
 [![Sqlite](https://img.shields.io/badge/-SQLITE-090909?style=for-the-badge&logo=sqlite&logoColor=6CBEEA)](https://www.sqlite.org/index.html)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-090909?style=for-the-badge&logo=postgresql&logoColor=316192)](https://www.postgresql.org/)
 [![Redis](https://img.shields.io/badge/-Redis-090909?style=for-the-badge&logo=redis&logoColor=316192)](https://redis.io/)
