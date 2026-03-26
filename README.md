@@ -1,33 +1,7 @@
 <h1 align="center">Kirill Monster</h1>
 <p align="center">
-  <b>Rust & Python Engineer • Backend • ML • DevOps</b>
+  <b>Backend • Frontend • ML • DevOps</b>
 </p>
-
-<p align="center">
-  <a href="https://t.me/kirill_devx"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
-  <a href="https://discordapp.com/users/643017727728025602"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
-  <a href="https://vk.com/kirill_devx"><img src="https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white" alt="VK"></a>
-</p>
-
-<p align="center">
-  Building high-load systems, bots, APIs, ML services, and robust deployment pipelines.<br>
-  Focused on performance, scalability, and low-latency architecture.
-</p>
-
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" width="50" height="50" alt="Rust" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="50" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="50" height="50" alt="FastAPI" />
-</p>
-
-<p align="center">
-  <img src="https://api.iconify.design/logos:tailwindcss-icon.svg" width="48" height="48" />
-  <img src="https://api.iconify.design/logos:nats-icon.svg" width="48" height="48" />
-  <img src="https://api.iconify.design/logos:redis.svg" width="48" height="48" />
-</p>
-
 
 <h3 align="center">🛠️ Tech Stack & Tools</h3>
 
