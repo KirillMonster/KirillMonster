@@ -5,6 +5,8 @@
 [![Sqlite](https://img.shields.io/badge/-SQLITE-090909?style=for-the-badge&logo=sqlite&logoColor=6CBEEA)](https://www.sqlite.org/index.html)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-090909?style=for-the-badge&logo=postgresql&logoColor=316192)](https://www.postgresql.org/)
 [![Redis](https://img.shields.io/badge/-Redis-090909?style=for-the-badge&logo=redis&logoColor=316192)](https://redis.io/)
+[![DragonflyDB](https://img.shields.io/badge/-Redis-090909?style=for-the-badge&logo=redis&logoColor=316192)](https://dragonflydb.io/)
+[![NATS](https://img.shields.io/badge/-Redis-090909?style=for-the-badge&logo=redis&logoColor=316192)](https://nats.io/)
 
 ### Tools
 [![Pycharm](https://img.shields.io/badge/-Pycharm-090909?style=for-the-badge&logo=pycharm&logoColor=7CFC00)](https://www.jetbrains.com/ru-ru/pycharm/)
