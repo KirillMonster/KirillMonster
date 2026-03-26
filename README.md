@@ -14,6 +14,21 @@
   Focused on performance, scalability, and low-latency architecture.
 </p>
 
+
+<p align="center">
+  <!-- Формат ссылки: cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/[ИМЯ]/[ИМЯ]-[ВЕРСИЯ].svg -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" width="50" height="50" alt="Rust" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="50" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="50" height="50" alt="FastAPI" />
+</p>
+
+<p align="center">
+  <img src="https://api.iconify.design/logos:tailwindcss-icon.svg" width="48" height="48" />
+  <img src="https://api.iconify.design/logos:nats-icon.svg" width="48" height="48" />
+  <img src="https://api.iconify.design/logos:redis.svg" width="48" height="48" />
+</p>
+
 ---
 
 <h3 align="center">🛠️ Tech Stack & Tools</h3>
