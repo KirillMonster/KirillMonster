@@ -16,7 +16,6 @@
 
 
 <p align="center">
-  <!-- Формат ссылки: cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/[ИМЯ]/[ИМЯ]-[ВЕРСИЯ].svg -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" width="50" height="50" alt="Rust" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="50" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="PostgreSQL" />
@@ -30,6 +29,87 @@
 </p>
 
 ---
+
+<h3 align="center">🛠️ Tech Stack & Tools</h3>
+
+<table align="center" style="border: none; background: transparent;">
+  <!-- Row 1: Languages & APIs -->
+  <tr>
+    <td align="center" width="96">
+      <img src="https://api.iconify.design/logos/rust.svg" width="48" height="48" alt="Rust" /><br>Rust
+    </td>
+    <td align="center" width="96">
+      <img src="https://api.iconify.design/logos/python.svg" width="48" height="48" alt="Python" /><br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://api.iconify.design/logos/typescript-icon.svg" width="48" height="48" alt="TypeScript" /><br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://api.iconify.design/devicon/fastapi.svg" width="48" height="48" alt="FastAPI" /><br>FastAPI
+    </td>
+    <td align="center" width="96">
+      <img src="https://api.iconify.design/logos/grpc.svg" width="48" height="48" alt="gRPC" /><br>gRPC
+    </td>
+  </tr>
+  
+  <!-- Row 2: Data & Messaging -->
+  <tr>
+    <td align="center" width="96">
+      <img src="https://api.iconify.design/logos/postgresql.svg" width="48" height="48" alt="PostgreSQL" /><br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://api.iconify.design/logos/redis.svg" width="48" height="48" alt="Redis" /><br>Redis
+    </td>
+    <td align="center" width="96">
+      <img src="https://api.iconify.design/simple-icons/duckdb.svg?color=%23FFD800" width="48" height="48" alt="DuckDB" /><br>DuckDB
+    </td>
+    <td align="center" width="96">
+      <img src="https://api.iconify.design/logos/sqlite.svg" width="48" height="48" alt="SQLite" /><br>SQLite
+    </td>
+    <td align="center" width="96">
+      <img src="https://api.iconify.design/simple-icons/nats.svg?color=%2327A4E2" width="48" height="48" alt="NATS" /><br>NATS
+    </td>
+  </tr>
+
+  <!-- Row 3: ML & Data Science -->
+  <tr>
+    <td align="center" width="96">
+      <img src="https://api.iconify.design/logos/pytorch-icon.svg" width="48" height="48" alt="PyTorch" /><br>PyTorch
+    </td>
+    <td align="center" width="96">
+      <img src="https://api.iconify.design/logos/tensorflow.svg" width="48" height="48" alt="TensorFlow" /><br>TensorFlow
+    </td>
+    <td align="center" width="96">
+      <img src="https://api.iconify.design/simple-icons/onnx.svg?color=%23005CED" width="48" height="48" alt="ONNX" /><br>ONNX
+    </td>
+    <td align="center" width="96">
+      <img src="https://api.iconify.design/logos/numpy.svg" width="48" height="48" alt="NumPy" /><br>NumPy
+    </td>
+    <td align="center" width="96">
+      <img src="https://api.iconify.design/simple-icons/pandas.svg?color=%23150458" width="48" height="48" alt="Pandas" /><br>Pandas
+    </td>
+  </tr>
+
+  <!-- Row 4: Infra & DevOps -->
+  <tr>
+    <td align="center" width="96">
+      <img src="https://api.iconify.design/logos/docker-icon.svg" width="48" height="48" alt="Docker" /><br>Docker
+    </td>
+    <td align="center" width="96">
+      <img src="https://api.iconify.design/logos/nginx.svg" width="48" height="48" alt="Nginx" /><br>Nginx
+    </td>
+    <td align="center" width="96">
+      <img src="https://api.iconify.design/logos/ansible.svg" width="48" height="48" alt="Ansible" /><br>Ansible
+    </td>
+    <td align="center" width="96">
+      <!-- Tailscale обычно делают нейтральным (серым), чтобы было видно и в светлой, и в темной теме GitHub -->
+      <img src="https://api.iconify.design/simple-icons/tailscale.svg?color=%23888888" width="48" height="48" alt="Tailscale" /><br>Tailscale
+    </td>
+    <td align="center" width="96">
+      <img src="https://api.iconify.design/logos/git-icon.svg" width="48" height="48" alt="Git" /><br>Git
+    </td>
+  </tr>
+</table>
 
 <h3 align="center">🛠️ Tech Stack & Tools</h3>
 
